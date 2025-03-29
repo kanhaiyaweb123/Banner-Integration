@@ -12,4 +12,4 @@ CREATE TABLE banners (
 INSERT INTO banners (image_url, link, alt_text) VALUES
 ('https://www.proglobalbusinesssolutions.com/wp-content/uploads/2019/03/Creative-Company-Banner.jpg', 
  'https://www.proglobalbusinesssolutions.com/portfolio-items/web-banner-design/', 
- 'Creative website design banner');
+ 'Creative website design banner'); 
